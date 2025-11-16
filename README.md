@@ -8,6 +8,7 @@ All scripts operate through command-line arguments and use `data/source.txt` as 
 
 ## Project Structure
 
+```
 GOIT-PNC-HW-02
 │
 ├── data
@@ -58,6 +59,8 @@ GOIT-PNC-HW-02
 │       └── run_pipeline_decrypt.py
 │
 └── README.md
+
+```
 
 ---
 
