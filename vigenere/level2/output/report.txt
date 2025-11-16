@@ -1,0 +1,34 @@
+[Vigenere attack report]
+Best key length: 24
+Recovered key  : CRYPTOGRAPHYCRYPTOGRAPHY
+Score (chi²)   : 24.816
+
+Friedman estimate: k ≈ 9
+Kasiski top (by spacing divisibility): 2, 3, 4, 6, 12, 8, 24, 9, 18, 7
+
+Tried candidates (k, KEY, score):
+  24  CRYPTOGRAPHYCRYPTOGRAPHY  24.816
+  12  CRYPTOGRAPHY          26.969
+  18  GRAPTOGRAPTOGRAPTO    107.660
+  21  PTOPTACGACSACEABGYPTJ  156.011
+  22  HXGNGVEPGXTELOBPAOGRTV  166.556
+  20  GOGCCOGPGOHRGVTPTVYP  183.855
+  23  VECHGGNAEZECREMOROEVOHA  186.605
+  15  PHAPTAPRACHAPRE       230.345
+  19  CVOHHENHTEOAJDEROGX   238.396
+   6  GRAPTO                240.112
+  16  GOERGBGPAOWCCPHP      251.250
+  17  RTCPOQEKTOEVCEUGC     255.856
+  14  ACGVGVGPGEGPJV        255.862
+  13  TAGTTCVCREOGE         360.748
+  10  GRGVTOGVGO            365.421
+   9  CTAPEACRL             395.410
+  11  ELENVVEPEQV           415.410
+   8  GOGCGOHP              506.839
+   7  ATEOGCV               640.377
+   4  GOGP                  1016.073
+   5  EOCEO                 1070.985
+   3  PEA                   1254.845
+   2  GV                    1902.318
+
+Output written: vigenere/level2/output/decrypted_auto.txt
